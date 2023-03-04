@@ -3,9 +3,9 @@ package main
 import (
 	"time"
 
-	"github.com/RCVolus/srt-advanced-server/config"
-	"github.com/RCVolus/srt-advanced-server/srt"
-	"github.com/RCVolus/srt-advanced-server/web"
+	"github.com/laurfb/srt-advanced-server/config"
+	"github.com/laurfb/srt-advanced-server/srt"
+	"github.com/laurfb/srt-advanced-server/web"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
