@@ -1,4 +1,4 @@
-module github.com/RCVolus/srt-advanced-server
+module github.com/laurfb/srt-advanced-server
 
 go 1.17
 
