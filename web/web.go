@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/RCVolus/srt-advanced-server/stream"
+	"github.com/laurfb/srt-advanced-server/stream"
 	"github.com/haivision/srtgo"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
