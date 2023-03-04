@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/RCVolus/srt-advanced-server/stream"
+	"github.com/laurfb/srt-advanced-server/stream"
 	"github.com/haivision/srtgo"
 	"github.com/prometheus/client_golang/prometheus"
 )
